@@ -1,0 +1,38 @@
+[
+    {
+        "id": "intel-14400f",
+        "brand": "Intel",
+        "generation": "14세대 (Raptor Lake)",
+        "name": "Core i5-14400F",
+        "cores": "10코어 (6P + 4E)",
+        "clock": "4.7 GHz",
+        "socket": "LGA1700"
+    },
+    {
+        "id": "intel-ultra245k",
+        "brand": "Intel",
+        "generation": "Core Ultra 1세대 (Arrow Lake)",
+        "name": "Core Ultra 5 245K",
+        "cores": "14코어 (6P + 8E)",
+        "clock": "5.2 GHz",
+        "socket": "LGA1851"
+    },
+    {
+        "id": "amd-7500f",
+        "brand": "AMD",
+        "generation": "라이젠 5세대 (Zen 4)",
+        "name": "Ryzen 5 7500F",
+        "cores": "6코어",
+        "clock": "5.0 GHz",
+        "socket": "AM5"
+    },
+    {
+        "id": "amd-9600X",
+        "brand": "AMD",
+        "generation": "라이젠 6세대 (Zen 5)",
+        "name": "Ryzen 5 9600X",
+        "cores": "6코어",
+        "clock": "5.4 GHz",
+        "socket": "AM5"
+    }
+]
